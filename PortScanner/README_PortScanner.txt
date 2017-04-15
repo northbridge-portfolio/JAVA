@@ -1,4 +1,4 @@
-Program: PortScanner.jav
+Program: PortScanner.java
 @author NorthBridge
 @version 1.2
 Java SDK 1.8
