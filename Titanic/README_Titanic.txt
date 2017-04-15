@@ -1,4 +1,4 @@
-Program: Titanic.jav
+Program: Titanic.java
 @author NorthBridge
 @version 0.9
 Java SDK 1.8
